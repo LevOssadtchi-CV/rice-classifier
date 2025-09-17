@@ -4,7 +4,7 @@ import os
 import json
 import random
 
-TOKEN = "8444981556:AAFdWZNlK6x8jERAmGclHBMbmqz6xQgTTcE"
+TOKEN = "API_TOKEN"
 bot = telebot.TeleBot(TOKEN, threaded=True)
 
 BOT_IMG_DIR = "bot_img"
